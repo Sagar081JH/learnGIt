@@ -16,3 +16,7 @@ git commit -m "commit message"
 git branch -M main : creates branch with name "main"
 
 git push -u origin main : pushes commited changes to main branch
+
+Hi git
+
+sdsdsd
