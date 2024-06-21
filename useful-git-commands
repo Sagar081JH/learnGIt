@@ -1,16 +1,24 @@
 
+		--------------------Essential git commands -----------------------------
 
 git clone <repo ssh url or https>
 
-git status : checks status of directory
 
-git add <file name> : add file to the commit
+	run below 4 commands in sequence for successful file push :
+	
+			git status : checks status of directory
+
+			git add <file name> : add file to the commit
+
+			git commit -m "commit message"
+
+			git push origin master : pushes changes to git repo
+			
 
 git diff <file name> : shows recent change which are not commited
 
-git push origin master : pushes changes to git repo
-
 pwd : presen working directory
+
 mkdir : make directory
 
 git commit -m "commit message"
