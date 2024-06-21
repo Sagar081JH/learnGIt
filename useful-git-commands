@@ -19,3 +19,6 @@ git branch -M main : creates branch with name "main"
 
 git push -u origin main : pushes commited changes to main branch
 
+git rm <file-name> : deletes file
+
+git rm <folder-name> -r : deletes folder
